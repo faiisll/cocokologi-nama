@@ -1,0 +1,15 @@
+{
+  "name": "cocokologi-nama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "countup.js": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faiisll",
+  "license": "ISC"
+}
